@@ -14,7 +14,7 @@ Dataset Title: CalCOFI marine mammal surveys 2004-2008 - on effort
 Dataset Source: OBIS-SEAMAP
 Date Data Acquired: 10/09/2024
 
-%Dataset Description:% From July 2004 to April 2008 dedicated visual observers following consistent line-transect methods (Buckland et al., 1993; Kinzey et al., 2003) observed from the CalCOFI platforms
+Dataset Description: From July 2004 to April 2008 dedicated visual observers following consistent line-transect methods (Buckland et al., 1993; Kinzey et al., 2003) observed from the CalCOFI platforms
 on quarterly cruises. Observers used handheld 7X50 reticle Fujinon binoculars to sight, identify, and make school size estimates of cetaceans and pinnipeds encountered along the transect lines between
 CalCOFI water sampling stations. The southern water sampling stations are set along six, parallel lines running southwest to northeast, with lines increasing in length from north to south (470 – 700 km)
 and stations occurring every 37 km in coastal and continental shelf waters and every 74 km offshore. Three research vessels were used for the sixteen surveys, Scripps Institution of Oceanography Roger 
