@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<Esri>
+	<MetaID>{999A9551-D701-4CF5-9373-131D3DD8D969}</MetaID>
+	<CreaDate>20050512</CreaDate>
+	<CreaTime>19291400</CreaTime>
+	<SyncOnce>FALSE</SyncOnce>
+	<SyncDate>20060710</SyncDate>
+	<SyncTime>17161900</SyncTime>
+	<ModDate>20060815</ModDate>
+	<ModTime>12091700</ModTime>
+</Esri>
+<idinfo>
+	<keywords><theme><themekt>Platform</themekt><themekey>Vessels</themekey><themekey>Sightings</themekey></theme><theme><themekt>User defined</themekt></theme></keywords>
+	<native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+	<descript>
+	<langdata Sync="TRUE">en</langdata>
+	<abstract>From July 2004 to April 2008 dedicated visual observers following consistent line-transect methods (Buckland et al., 1993; Kinzey et al., 2003) observed from the CalCOFI platforms on quarterly cruises. Observers used handheld 7X50 reticle Fujinon binoculars to sight, identify, and make school size estimates of cetaceans and pinnipeds encountered along the transect lines between CalCOFI water sampling stations. The southern water sampling stations are set along six, parallel lines running southwest to northeast, with lines increasing in length from north to south (470 – 700 km) and stations occurring every 37 km in coastal and continental shelf waters and every 74 km offshore. Three research vessels were used for the sixteen surveys, Scripps Institution of Oceanography Roger Revelle (2 surveys) and New Horizon (8 surveys) and, NOAA David Starr Jordan (6 surveys), vessel height varied from 8.1-13.2m and survey speed varied from 10 to 12 knots.</abstract><purpose>The waters off southern California are remarkably diverse and species rich, but they are also an area of swift commercial development, navy training activity, population growth and climate change. Continued visual marine mammal and seabird surveys working in concert with oceanographic ecosystem investigations are essential for monitoring the health and changes of the California current system.</purpose><supplinf>Effort tracklines, two &lt;i&gt;Delphinus delphis&lt;/i&gt; sightings in 2005 and one in 2006, overlap with data published in the &lt;a href="http://seamap.env.duke.edu/dataset/507"&gt;CalCOFI and NMFS Seabird and Marine Mammal Observation Data, 1987-2006&lt;/a&gt; dataset. However, data collected for this dataset used different methods and observers. Please contact the primary contact listed for more details.</supplinf></descript>
+	<citation>
+		<citeinfo><origin>Douglas, A</origin><pubdate>2012</pubdate><title>CalCOFI marine mammal surveys 2004-2008 - on effort</title><onlink>http://seamap.env.duke.edu/dataset/792</onlink><serinfo><sername>OBIS-SEAMAP</sername><issue>792</issue></serinfo><pubinfo><pubplace>http://seamap.env.duke.edu/dataset/792</pubplace><publish>OBIS-SEAMAP</publish></pubinfo></citeinfo>
+	</citation>
+	<timeperd><current>ground condition</current><timeinfo><rngdates><begdate>2004-07-13</begdate><enddate>2008-04-06</enddate></rngdates></timeinfo></timeperd>
+	<status><progress>Complete</progress><update>None planned</update></status>
+	<spdom><bounding><westbc>-124.176485</westbc><eastbc>-117.276603</eastbc><northbc>35.100981</northbc><southbc>29.958729</southbc></bounding><lboundng><leftbc Sync="TRUE">-124.176485</leftbc><rightbc Sync="TRUE">-117.276603</rightbc><bottombc Sync="TRUE">29.958729</bottombc><topbc Sync="TRUE">35.100981</topbc></lboundng></spdom>
+	<accconst>Open public unless otherwise noted. See Use Constraints for details.</accconst>
+	<useconst>1. Not to use data obtained from OBIS-SEAMAP in any publication, product, or commercial application without proper attribution to the original data provider(s) and OBIS-SEAMAP unless the datasets are explicitly shown under the CC0 policy. Citations or credits are suggested as attribution. If the data you downloaded come from multiple datasets, a citation or credit to each of the datasets is required.
+
+Suggested citation for this dataset:
+
+Douglas, A. 2012. CalCOFI marine mammal surveys 2004-2008 - on effort. Data downloaded from OBIS-SEAMAP (http://seamap.env.duke.edu/dataset/792) on yyyy-mm-dd.
+
+Suggested citation for OBIS-SEAMAP:
+
+Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach. 2009. OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions. Oceanography 22(2):104-115
+
+2. To forward the citation of any publication / report that made use of the data / tools provided by OBIS-SEAMAP for inclusion in our list of references.
+
+3. Not to hold OBIS-SEAMAP or the original data providers liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets. 
+
+4. The burden for determining fitness for use of the downloaded data for any analyses lies entirely with the user. OBIS-SEAMAP or the original data providers do not support outcomes of your analyses that used the data you downloaded from OBIS-SEAMAP.
+
+5. To consider inclusion of the accompanying transect (effort) dataset if available into the methodology of your analyses.
+
+6. Not to redistribute the data you downloaded from OBIS-SEAMAP through any media without contect from OBIS-SEAMAP and the original data providers unless the datasets are explicitly shown under the CC0 policy.</useconst>
+	<natvform Sync="TRUE">Shapefile</natvform>
+	
+	<ptcontac>
+		<cntinfo>
+			<cntperp><cntper>Annie Douglas</cntper><cntorg>Cascadia Research Collective</cntorg></cntperp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+			<address>218 1/2 W. 4th Ave.</address><city>Olympia</city><state>Washington</state><postal>98501</postal><country>USA</country></cntaddr>
+		<cntpos/><cntemail>ABDouglas@cascadiaresearch.org</cntemail><cntvoice>360-943-7325</cntvoice><cntfax/></cntinfo>
+	</ptcontac>
+<datacred>Annie B. Douglas, Cascadia Research </datacred><taxonomy><taxonsys><classsys><classcit><citeinfo><origin>Integrated Taxonomic Information System</origin><title>Integrated Taxonomic Information System</title><onlink>http://www.itis.usda.gov/</onlink><othercit>Downloaded April, 2004</othercit></citeinfo></classcit></classsys><ider><cntinfo><cntorgp><cntorg>Refer to the contact information of the dataset</cntorg></cntorgp></cntinfo></ider></taxonsys></taxonomy><crossref><citeinfo><origin>Halpin, P.N., A.J. Read, E. Fujioka, B.D. Best, B. Donnelly, L.J. Hazen, C. Kot, K. Urian, E. LaBrecque, A. Dimatteo, J. Cleary, C. Good, L.B. Crowder, and K.D. Hyrenbach</origin><pubdate>2009</pubdate><title>OBIS-SEAMAP: The world data center for marine mammal, sea bird, and sea turtle distributions</title><geoform>vector digital data</geoform><serinfo><sername>Oceanography</sername><issue>22(2):104-115</issue></serinfo><onlink>http://www.tos.org/oceanography/article/obis-seamap-the-world-data-center-for-marine-mammal-sea-bird-and-sea-turtle</onlink></citeinfo></crossref></idinfo>
+
+<metainfo>
+	<langmeta Sync="TRUE">en</langmeta>
+	<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+	<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+	<mettc Sync="TRUE">local time</mettc>
+	<metc>
+		<cntinfo>
+			<cntorgp>
+			<cntper>Ei Fujioka</cntper>
+			<cntorg>Nicholas School of Environment, Duke University</cntorg>
+			</cntorgp>
+			<cntaddr><addrtype>mailing and physical address</addrtype><city>Durham</city><state>NC</state><postal>27708</postal><address>A328, LSRC</address><country>USA</country></cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		<cntperp><cntper>Connie Kot</cntper><cntorg>Duke University</cntorg></cntperp><cntpos/></cntinfo>
+	</metc>
+	<metextns><onlink>http://www.nbii.gov/</onlink><metprof>Biological Data Profile</metprof></metextns><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns>
+	<metd>2011-11-11</metd>
+<metrd>2013-04-11</metrd></metainfo>
+
+<mdLang><languageCode Sync="TRUE" value="en"/></mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"/></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"/></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+
+<distinfo>
+	<resdesc Sync="TRUE">Downloadable Data</resdesc>
+	<stdorder>
+		<digform>
+			<digtinfo>
+				<transize Sync="TRUE">0.021</transize>
+				<dssize Sync="TRUE">0.021</dssize>
+			</digtinfo>
+			<digtopt>
+				<onlinopt>
+					<computer>
+						<networka>
+							<networkr>OBIS-SEAMAP</networkr>
+						</networka>
+					</computer>
+				</onlinopt>
+			</digtopt>
+		</digform>
+		<fees>Free</fees>
+		<ordering>Go to the OBIS-SEAMAP web site and click on [Datasets] tab appearing on upper left.</ordering>
+	</stdorder>
+	<distrib>
+		<cntinfo>
+			<cntorgp>
+				<cntorg>Nicholas School of Environment, Duke Univ.</cntorg>
+				<cntper>OBIS-SEAMAP</cntper>
+			</cntorgp>
+			<cntaddr>
+				<addrtype>mailing and physical address</addrtype>
+				<city>Durham</city><state>NC</state><country>USA</country><address>A328, LSRC</address><postal>27708</postal>
+			</cntaddr>
+			<cntvoice>919-613-8021</cntvoice>
+			<cntemail>seamap-contact@duke.edu</cntemail>
+		<cntpos/><cntefax/></cntinfo>
+	</distrib>
+
+	<distliab>Not to hold OBIS-SEAMAP liable for errors in the data. While we have made every effort to ensure the quality of the database, we cannot guarantee the accuracy of these datasets.&#13;
+Also please refer to Use Constraints.&#13;
+</distliab>
+</distinfo>
+
+	<distInfo>
+		<distributor><distorTran>
+				<onLineSrc><orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.021</transSize></distorTran>
+			<distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat>
+		</distributor></distInfo>
+	<spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf>
+		</ptvctinf></spdoinfo>
+	<spref><horizsys><cordsysn><geogcsn>GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit>Decimal degrees</geogunit><latres>0.000167</latres><longres>0.000167</longres></geograph><geodetic><horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips><semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat></geodetic></horizsys></spref><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_WGS_1984</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"/></topLvl>
+		</VectSpatRep>
+	</spatRepInfo><eainfo><overview><eaover>This section explains attributes included in the original dataset.&#13;
+OBIS-SEAMAP restricts the attributes available to the public to date/time, lat/lon and species names/counts only.&#13;
+Should you need other attributes described here, you are encouraged to contact the data provider.</eaover><eadetcit>Annie Douglas, Cascadia Research Collective</eadetcit></overview><detailed><attr><attrlabl>oid</attrlabl><attrdef>Unique ID number (generated by OBIS-SEAMAP)</attrdef></attr><attr><attrlabl>recnum</attrlabl><attrdef>Record number</attrdef></attr><attr><attrlabl>year</attrlabl><attrdef>Year of observation</attrdef></attr><attr><attrlabl>season</attrlabl><attrdef>Season of observation </attrdef></attr><attr><attrlabl>linetype</attrlabl><attrdef>Line type</attrdef></attr><attr><attrlabl>cruise</attrlabl><attrdef>Cruise ID</attrdef></attr><attr><attrlabl>obs_date</attrlabl><attrdef>Observed date</attrdef></attr><attr><attrlabl>obs_time</attrlabl><attrdef>Observed time</attrdef></attr><attr><attrlabl>dattime</attrlabl><attrdef>Observed date and time</attrdef></attr><attr><attrlabl>sightnum</attrlabl><attrdef>Sight number</attrdef></attr><attr><attrlabl>oneffort</attrlabl><attrdef>On effort</attrdef></attr><attr><attrlabl>ontransect</attrlabl><attrdef>On Transect</attrdef></attr><attr><attrlabl>latitude</attrlabl><attrdef>Latitude of observation</attrdef></attr><attr><attrlabl>longitude</attrlabl><attrdef>Longitude of observation</attrdef></attr><attr><attrlabl>obs_count</attrlabl><attrdef>Observed count (estimate)</attrdef></attr><attr><attrlabl>calf</attrlabl><attrdef>Number of calves</attrdef></attr><attr><attrlabl>sp_obs</attrlabl><attrdef>Species observed</attrdef></attr><attr><attrlabl>spgroup</attrlabl><attrdef>Species group observed</attrdef></attr><attr><attrlabl>angle</attrlabl><attrdef>Angle of observation</attrdef></attr><attr><attrlabl>dis</attrlabl><attrdef>Distance of observation</attrdef></attr><attr><attrlabl>sp_tsn</attrlabl><attrdef>Species ITIS TSN</attrdef></attr></detailed></eainfo><mdDateSt Sync="TRUE">20060815</mdDateSt>
+	<dataqual><posacc><horizpa><horizpar/></horizpa><vertacc><vertaccr/></vertacc></posacc><attracc><attraccr/></attracc><complete/></dataqual>
+</metadata>
