@@ -13,6 +13,7 @@ Project Description: [insert descroption of what we plan to do with the data]
 Dataset Title: CalCOFI marine mammal surveys 2004-2008 - on effort
 Dataset Source: OBIS-SEAMAP
 Date Data Acquired: 10/09/2024
+Dataset Citation: Douglas, A. 2012. CalCOFI marine mammal surveys 2004-2008 - on effort. Data downloaded from OBIS-SEAMAP (http://seamap.env.duke.edu/dataset/792) on 2024-10-09.
 
 Dataset Description: From July 2004 to April 2008 dedicated visual observers following consistent line-transect methods (Buckland et al., 1993; Kinzey et al., 2003) observed from the CalCOFI platforms
 on quarterly cruises. Observers used handheld 7X50 reticle Fujinon binoculars to sight, identify, and make school size estimates of cetaceans and pinnipeds encountered along the transect lines between
