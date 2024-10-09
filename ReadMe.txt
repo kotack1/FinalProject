@@ -7,7 +7,7 @@ Project Due Date: 12/12/2024
 Class: ENV859 Geospatial Data Analytics
 Professor: John Fay
 
-Project Title: Turtle
+Project Title: Turtle Tracking
 Project Description:
 
 Dataset:
