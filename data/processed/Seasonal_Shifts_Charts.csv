@@ -1,0 +1,26 @@
+Species,Warm Season Count,Cold Season Count,Count Change,Percentage Change
+Baird's Beaked Whale,1,0,1,100
+baleen whales,1,0,1,100
+beaked whales,0,1,-1,-100
+Blue Whale,31,6,25,80.6
+Bottlenose Dolphin,8,9,-1,-12.5
+cetaceans,84,79,5,6
+common dolphins,80,45,35,43.8
+Common Minke Whale,14,3,11,78.6
+Cuvier's Beaked Whale,2,1,1,50
+Dall's Porpoise,42,15,27,64.3
+dolphins,55,30,25,45.5
+False Killer Whale,0,1,-1,-100
+Fin Whale,28,25,3,10.7
+Gray Whale,4,10,-6,-150
+Harbor Porpoise,1,0,1,100
+Humpback Whale,62,16,46,74.2
+Killer Whale,2,0,2,100
+Long-beaked Common Dolphin,27,18,9,33.3
+Northern Right Whale Dolphin,14,4,10,71.4
+Pacific White-sided Dolphin,39,22,17,43.6
+Risso's Dolphin,15,11,4,26.7
+Short-beaked Common Dolphin,91,73,18,19.8
+Short-finned Pilot Whale,1,0,1,100
+Sperm Whale,14,7,7,50
+Striped Dolphin,2,1,1,50

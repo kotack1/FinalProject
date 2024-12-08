@@ -3,17 +3,16 @@ Contact Information: katie.tack@duke.edu & tani.valdezrivas@duke.edu
 
 Date Created: 10/07/2024
 Project Due Date: 12/12/2024
-
 Class: ENV859 Geospatial Data Analytics
 Professor: John Fay
 
-<<<<<<< HEAD
-Project Title: 
-Project Description:
-=======
-Project Title: [insert title once we know what we're doing]
-Project Description: [insert descroption of what we plan to do with the data]
->>>>>>> 39ec5f26423742c6cbcf196848eb3cb9fefad2d0
+Project Title: Seasonality of Cetacean Species Richness in California
+Project Description: From July 2004 thru April 2008, marine mammal surveys from the California Cooperative Oceanic Fisheries Investigations
+(CalCOFI) were conducted in order to understand the spatial distribution of marine fauna off the coast of califronia. Through this dataset,
+we sought to understand how marine mammals shifted their movement behavior based on seasonality. We have condcuted a series of distribution 
+and density analysis through ArcGIS Pro and python. 
+
+Storymap: 
 
 Dataset Title: CalCOFI marine mammal surveys 2004-2008 - on effort
 Dataset Source: OBIS-SEAMAP
