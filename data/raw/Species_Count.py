@@ -20,20 +20,23 @@ species_count_df = pd.read_csv(species_count)
 # Calculate the difference in obsverational counts between warm and cold seasons
 species_count_df['Count Change'] = species_count_df['Warm Season Count'] - species_count_df['Cold Season Count']
 
-# Calculate the percentage change of observational counts from cooler to warmer seasons
-species_count_df['Percentage Change'] = ((species_count_df['Warm Season Count'] - species_count_df['Cold Season Count']) 
-                                         / species_count_df['Warm Season Count']) * 100
+# Issues with other code that would produce inf and inaccurate percentage changes, used ChatGPT to aid this issue
+def calculate_percentage_change(warm_count, cold_count):
+    if cold_count == 0: 
+        if warm_count > 0:
+            return warm_count * 100  
+        else:
+            return 0.0  
+    return ((warm_count - cold_count) / cold_count) * 100
+species_count_df['Percentage Change'] = species_count_df.apply(
+    lambda row: calculate_percentage_change(row['Warm Season Count'], row['Cold Season Count']), axis=1
+)
 
-
-# Rounding the 'Percentage Change' to one decimal place
+# Round  'Percentage Change' to one decimal place
 species_count_df['Percentage Change'] = species_count_df['Percentage Change'].round(1)
 
-# Replacing possible -inf output to a value
-species_count_df['Percentage Change'] = species_count_df['Percentage Change'].replace([float('inf'), float('-inf')], -100)
-
-
-# Display the dataframe that include the percentage differnce from cooler to warm seasons 
-print(species_count_df[['Species', 'Warm Season Count', 'Cold Season Count', 'Percentage Change']])
+# Printing the dataframe with the accurate percentage change
+print(species_count_df[['Species', 'Cold Season Count','Warm Season Count', 'Percentage Change']])
 
 # Save the output as a CSV file to the processed data folder
 species_count_df.to_csv('Seasonal_Shifts.csv', index=False)
