@@ -22,7 +22,8 @@ species_count_df['Count Change'] = species_count_df['Warm Season Count'] - speci
 
 # Calculate the percentage change of observational counts from cooler to warmer seasons
 species_count_df['Percentage Change'] = ((species_count_df['Warm Season Count'] - species_count_df['Cold Season Count']) 
-                                         / species_count_df['Warm Season Count']) * 100
+                                         / species_count_df['Cold Season Count']) * 100
+                                         
 
 
 # Rounding the 'Percentage Change' to one decimal place
