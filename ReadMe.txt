@@ -12,7 +12,7 @@ Project Description: From July 2004 thru April 2008, marine mammal surveys from 
 we sought to understand how marine mammals shifted their movement behavior based on seasonality. We have condcuted a series of distribution 
 and density analysis through ArcGIS Pro and python. 
 
-Storymap: 
+Storymap: https://storymaps.arcgis.com/stories/05ce6203aa0e492f860c418c08865b64
 
 Dataset Title: CalCOFI marine mammal surveys 2004-2008 - on effort
 Dataset Source: OBIS-SEAMAP
@@ -24,3 +24,5 @@ on quarterly cruises. Observers used handheld 7X50 reticle Fujinon binoculars to
 CalCOFI water sampling stations. The southern water sampling stations are set along six, parallel lines running southwest to northeast, with lines increasing in length from north to south (470 – 700 km)
 and stations occurring every 37 km in coastal and continental shelf waters and every 74 km offshore. Three research vessels were used for the sixteen surveys, Scripps Institution of Oceanography Roger 
 Revelle (2 surveys) and New Horizon (8 surveys) and, NOAA David Starr Jordan (6 surveys), vessel height varied from 8.1-13.2m and survey speed varied from 10 to 12 knots.
+
+PLEASE READ INSTRUCTIONS DOCUMENT
